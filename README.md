@@ -8,7 +8,7 @@
 
 📫 How to reach me:
 
-Email: [jvillamoros@gmail.com] LinkedIn: [Your LinkedIn Profile URL] Mastodon: https://mastodon.social/@juanvillamoros Threads: @juancvillamoros@threads.net my CV: https://island-hallway-586.notion.site/Juan-Villamoros-Fullstack-Developer-cec66d05aec8477997b9331b22d1a4c6 💼 In addition to my development expertise, I'm well-versed in frontend technologies like React.js, Vue.js, and Astro.js. I find joy in crafting engaging user interfaces and interactive web applications.
+Email: [juancarlosvillamorosgonzalez@gmail.com] LinkedIn: [[Your LinkedIn Profile URL]](https://www.linkedin.com/in/juanvillamoros/) Mastodon: https://mastodon.social/@juanvillamoros Threads: @juancvillamoros@threads.net my CV: https://island-hallway-586.notion.site/Juan-Villamoros-Fullstack-Developer-cec66d05aec8477997b9331b22d1a4c6 💼 In addition to my development expertise, I'm well-versed in frontend technologies like React.js, Vue.js, and Astro.js. I find joy in crafting engaging user interfaces and interactive web applications.
 
 🎯 My current goal is to further my knowledge and skills in Project Management. I believe that combining technical expertise with project management abilities is the key to successful and efficient software development.
 
