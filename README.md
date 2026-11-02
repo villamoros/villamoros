@@ -8,11 +8,11 @@
 
 📫 How to reach me:
 
-📧 [Email](juancarlosvillamorosgonzalez@gmail.com) 
+📧 [Email](people@villamoros.tech) 
 💼 [LinkedIn](https://www.linkedin.com/in/juanvillamoros/) 
 🐘 [Mastodon](https://mastodon.social/@juancvillamoros)
 🦉 [X](https://x.com/JuanVillamoros) 
-📄 [CV](https://island-hallway-586.notion.site/Juan-Villamoros-Fullstack-Developer-cec66d05aec8477997b9331b22d1a4c6)
+📄 [Portfolio](https://villamoros.tech)
 
 💼 In addition to my development expertise, I'm well-versed in frontend technologies like React.js, Vue.js, and Astro.js. I find joy in crafting engaging user interfaces and interactive web applications.
 
